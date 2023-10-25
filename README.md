@@ -3,7 +3,7 @@
 
 Thanks a lot in advance! 
 <h1 align="center">Senior Blockchain Fullstack Developer</h1>
-<h3 align="center">As a seasoned blockchain developer with [X] years of experience, I specialize in building decentralized applications (DApps), writing secure smart contracts, and implementing blockchain solutions for various industries. My expertise lies in utilizing the Ethereum blockchain, Solidity programming language, and web3.js framework to create robust and scalable decentralized systems. With a strong background in software development and a deep understanding of blockchain technology, I am passionate about revolutionizing industries through innovative blockchain solutions.</h3>
+<h3 align="center">As a seasoned blockchain developer with +5 years of experience, I specialize in building decentralized applications (DApps), writing secure smart contracts, and implementing blockchain solutions for various industries. My expertise lies in utilizing the Ethereum blockchain, Solidity programming language, and web3.js framework to create robust and scalable decentralized systems. With a strong background in software development and a deep understanding of blockchain technology, I am passionate about revolutionizing industries through innovative blockchain solutions.</h3>
 
 
 ### Languages  
@@ -319,27 +319,3 @@ Thanks a lot in advance!
 <hr>
 <br>
 <!-- <h3 align="left">My GitHub Stats:</h3>
-<div>
-
-</div>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=cedev935&show_icons=true&theme=radical" alt="cedev935"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&hide=html,css&layout=compact&theme=radical" alt="cedev935"/>
-</p>
-
-<p  align="Right">
-
-</p>
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cedev935&theme=radical" alt="cedev935"/>
-</p> -->
-
-
-## ⚡ Status
-
-<div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/cedev935?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=cedev935&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@cedev935's trophy stats"/>
-  </a>
-</div>
