@@ -59,13 +59,6 @@ Thanks a lot in advance!
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnmichael746" alt="johnmichael746" /></a> </p>
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnmichael746&show_icons=true&locale=en&layout=compact" alt="johnmichael746" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnmichael746&show_icons=true&locale=en" alt="johnmichael746" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnmichael746&" alt="johnmichael746" /></p>
 ## 💫 My🌟BEST🌟 SKILLS
 ![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
 <p align="center">
