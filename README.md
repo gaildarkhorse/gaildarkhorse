@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaildarkhorse
+- 👋 Nice to meet you, I’m @gaildarkhorse
 
 💧 FrontEnd: React, Next.js, Remix, Vue, Redux, Mobx,  Vuex, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap,  Vuetify, Javascript, ES6+, Typescript
 
